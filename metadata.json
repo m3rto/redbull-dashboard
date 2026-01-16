@@ -1,0 +1,7 @@
+{
+  "name": "Red Bull Outlet Insights Dashboard",
+  "description": "A premium, high-energy location intelligence dashboard for Red Bull. Visualize retail outlets, filter by custom categorizations, and gain AI-powered distribution insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
